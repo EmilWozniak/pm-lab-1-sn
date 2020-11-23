@@ -17,11 +17,11 @@ Odpowiedź:  Efektem działania programu jest zaświecenie się diody LED L wbud
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  Zamienienie  kolejności podłączenia diody LED i  rezystora nie ma znaczenia, ponieważ wystarczy że będzie się znajdował z nią w szeregu, a wtedy odłoży się na nim nadmiar napięcia.
+Odpowiedź:  Zamienienie  kolejności podłączenia diody LED i  rezystora nie ma znaczenia i na nic nie wpływa, ponieważ wystarczy że będzie się znajdował z nią w szeregu, a wtedy odłoży się na nim nadmiarnapięcia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Każdy rodzaj pętli jest wymienny, ale różnią się one funkcjonalnością, z tego względu decyzja którą należy wybrać w danym momencie, zależy głównie od kontekstu, w jaki ma być wykorzystana.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
