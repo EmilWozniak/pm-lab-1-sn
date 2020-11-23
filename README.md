@@ -13,7 +13,7 @@ Grupa studencka:            WEL18DE1S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  Efektem działania programu jest zaświecenie się diody LED L wbudowanej w płytkę Arduino (tzw. LED_BUILTIN).
+Odpowiedź:  Efektem działania programu jest zaświecenie się diody LED L wbudowanej w płytkę Arduino  (tzw. LED_BUILTIN).
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
