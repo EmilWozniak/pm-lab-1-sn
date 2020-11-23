@@ -25,7 +25,7 @@ Odpowiedź:  Każdy rodzaj pętli jest wymienny, ale różnią się one funkcjon
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Zwiększenie wartości stałej LED_T wydłuża czas świecenia się diody.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
